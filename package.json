@@ -4,6 +4,7 @@
   "description": "A Discord bot for BanzaiBaby's server",
   "main": "app.js",
   "dependencies": {
+    "canvas": "^2.0.0-alpha.12",
     "discord.js": "^11.3.2",
     "dotenv": "^6.0.0",
     "twitter": "^1.7.1"
